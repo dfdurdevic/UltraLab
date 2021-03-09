@@ -1,0 +1,11 @@
+NAME	Prazan.templat
+PRACTICE_BEGIN_NOTE	Za početak vežbe pritisnite bilo koji taster.
+BEGIN_NOTE	Za početak eksperimenta pritisnite bilo koji taster.
+END_NOTE	Eksperiment završen. Hvala!
+RANDOMIZE_PRACTICE_TRIALS	yes
+BEGIN_PRACTICE_TRIALS	
+END_PRACTICE_TRIALS	
+RANDOMIZE_EXPERIMENT_TRIALS	yes
+BEGIN_EXPERIMENT_TRIALS	
+END_EXPERIMENT_TRIALS	
+END	
